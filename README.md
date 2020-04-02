@@ -13,7 +13,7 @@ This game was designed and built alongside GameDev.tv's Course: [Complete C# Uni
 
 ## Game
 
-Playable link [here!](https://simmer.io/@Tenlaael/tens-laser-defender)
+Playable link [here!](https://simmer.io/@Tenlaael/tens-glitch-garden)
 
 ## Credits & Attribution
 
